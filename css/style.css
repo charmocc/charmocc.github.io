@@ -1,0 +1,14 @@
+body {
+	background-color: #F5EFFB;
+	color: #4000FF;
+	font-family:  'Sedgwick Ave Display', cursive;
+}
+
+.logo {
+	border-radius: 50%;
+}
+
+.bgimg {
+	opacity: 0.5; 
+	filter: alpha(opacity=50);
+}
